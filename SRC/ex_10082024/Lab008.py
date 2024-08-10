@@ -1,19 +1,19 @@
 # Data Types
 
-# Interger - whole Number (32,-23,113434434)
+# Integer - whole Number (32,-23,113434434)
 # float - decimal point numbers (3.14,0.0,42432,566)
 # complex number -real and imaginary mostly used in machine language no use in automation
 # boolean - True/False
 # string -bunch of characters (str)
 # list[]- list of items
 
-'''advanced data type
-set
-dict
-tuple
-binary
-frozen set
-'''
+# advanced data type
+# set
+# dict
+# Tuple
+# binary
+# frozen set
+
 
 # int
 a = 43
@@ -26,7 +26,7 @@ complex_number = 12 + 23j
 print(complex_number.real)
 print(complex_number.imag)
 
-# boolen- True/False
+# boolean - True/False
 isPrime = True
 
 # string
@@ -35,7 +35,7 @@ name = "Rekha"
 # list
 shop_list = ["milk", "Bread", "butter"]
 price = [12.34, 34, 35, 21]
-mix_list = ["REkha", 324, 35.65]
+mix_list = ["Rekha", 324, 35.65]
 
 # Type()
 
