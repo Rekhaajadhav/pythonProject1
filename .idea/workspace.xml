@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0ccf888-60f0-431d-8121-a1c4aee59d7c" name="Changes" comment="task#1,task#2 and practice of format and others on 13August2024">
-      <change afterPath="$PROJECT_DIR$/SRC/ex_17082024/task#3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/ex_17082024/task#4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/ex_17082024/task#5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/ex_17082024/task#6.py" afterDir="false" />
+    <list default="true" id="a0ccf888-60f0-431d-8121-a1c4aee59d7c" name="Changes" comment="task#3,task#4,task#5,task#6 from 17th august are added">
+      <change afterPath="$PROJECT_DIR$/SRC/ex_20082024/task#7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_20082024/task#8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_20082024/task#9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +57,9 @@
     "Python.task#3.executor": "Run",
     "Python.task#4.executor": "Run",
     "Python.task#6.executor": "Run",
+    "Python.task#7.executor": "Run",
+    "Python.task#8.executor": "Run",
+    "Python.task#9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -164,14 +166,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723540354097</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="task#3,task#4,task#5,task#6 from 17th august are added">
+      <option name="closed" value="true" />
+      <created>1724054499573</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724054499573</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git commit demo" />
     <MESSAGE value="practice of keywords,identifires,commands and datatype on 10th august2024" />
     <MESSAGE value="task#1,task#2 and practice of format and others on 13August2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="task#1,task#2 and practice of format and others on 13August2024" />
+    <MESSAGE value="task#3,task#4,task#5,task#6 from 17th august are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="task#3,task#4,task#5,task#6 from 17th august are added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -185,11 +196,6 @@
           <url>file://$PROJECT_DIR$/SRC/ex_10082024/Lab005.py</url>
           <line>10</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SRC/ex_17082024/task#3.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
