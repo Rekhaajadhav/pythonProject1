@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0ccf888-60f0-431d-8121-a1c4aee59d7c" name="Changes" comment="task#3,task#4,task#5,task#6 from 17th august are added">
-      <change afterPath="$PROJECT_DIR$/SRC/ex_20082024/task#7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/ex_20082024/task#8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/ex_20082024/task#9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_22082024/Task#09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_22082024/task#10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_22082024/task#11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRC/ex_20082024/task#9.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/ex_20082024/task#9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,8 @@
     "Python.Task#5.executor": "Run",
     "Python.ab0010.executor": "Run",
     "Python.task#1.executor": "Run",
+    "Python.task#10.executor": "Run",
+    "Python.task#11.executor": "Run",
     "Python.task#2.executor": "Run",
     "Python.task#3.executor": "Run",
     "Python.task#4.executor": "Run",
