@@ -4,12 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0ccf888-60f0-431d-8121-a1c4aee59d7c" name="Changes" comment="task#3,task#4,task#5,task#6 from 17th august are added">
-      <change afterPath="$PROJECT_DIR$/SRC/ex_22082024/Task#09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/ex_22082024/task#10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/ex_22082024/task#11.py" afterDir="false" />
+    <list default="true" id="a0ccf888-60f0-431d-8121-a1c4aee59d7c" name="Changes" comment="task#9,task#10,task#11 from 22th august are added">
+      <change afterPath="$PROJECT_DIR$/SRC/ex_03092024/lab0016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_10092024/lab0017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_10092024/lab0018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_10092024/lab0019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_12092024/lab0020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_12092024/lab0021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_24082024/lab0011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_27082024/lab0012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_29082024/lab0014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_29082024/lab0015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/lab0022.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRC/ex_20082024/task#9.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/ex_20082024/task#9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +61,16 @@
     "Python.Lab009.executor": "Run",
     "Python.Task#5.executor": "Run",
     "Python.ab0010.executor": "Run",
+    "Python.lab0012.executor": "Run",
+    "Python.lab0014.executor": "Run",
+    "Python.lab0015.executor": "Run",
+    "Python.lab0016.executor": "Run",
+    "Python.lab0017.executor": "Run",
+    "Python.lab0018.executor": "Run",
+    "Python.lab0019.executor": "Run",
+    "Python.lab0020.executor": "Run",
+    "Python.lab0021.executor": "Run",
+    "Python.lab0022.executor": "Run",
     "Python.task#1.executor": "Run",
     "Python.task#10.executor": "Run",
     "Python.task#11.executor": "Run",
@@ -65,9 +83,15 @@
     "Python.task#9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/HP/PycharmProjects/pythonProject1/SRC/ex_10092024",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\pythonProject1\SRC\ex_10092024" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Lab009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
@@ -177,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724054499573</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="task#9,task#10,task#11 from 22th august are added">
+      <option name="closed" value="true" />
+      <created>1724323544602</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724323544602</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,7 +217,8 @@
     <MESSAGE value="practice of keywords,identifires,commands and datatype on 10th august2024" />
     <MESSAGE value="task#1,task#2 and practice of format and others on 13August2024" />
     <MESSAGE value="task#3,task#4,task#5,task#6 from 17th august are added" />
-    <option name="LAST_COMMIT_MESSAGE" value="task#3,task#4,task#5,task#6 from 17th august are added" />
+    <MESSAGE value="task#9,task#10,task#11 from 22th august are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="task#9,task#10,task#11 from 22th august are added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
