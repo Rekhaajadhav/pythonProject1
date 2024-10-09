@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0ccf888-60f0-431d-8121-a1c4aee59d7c" name="Changes" comment="task#9,task#10,task#11 from 22th august are added">
-      <change afterPath="$PROJECT_DIR$/SRC/ex_03092024/lab0016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/ex_10092024/lab0017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/ex_10092024/lab0018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/ex_10092024/lab0019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/ex_12092024/lab0020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/ex_12092024/lab0021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/ex_24082024/lab0011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/ex_27082024/lab0012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/ex_29082024/lab0014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/ex_29082024/lab0015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/lab0022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pytest_api_auto_project2_Restful_booker/Test_Get_Request.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in Test_Get_Request.py.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
